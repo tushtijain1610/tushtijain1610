@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&color=36BCF7&background=00000000&center=true&vCenter=true&lines=Hi+There!+I'm+Tushti+Jain!+🚀;Aspiring+Web+Developer+💻;Java+%7C+Python+%7C+HTML+%7C+CSS">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1500&color=36BCF7&background=00000000&center=true&vCenter=true&lines=Hi+There!+I'm+Tushti+Jain!+🚀;Aspiring+Web+Developer+💻;Java+%7C+Python+%7C+React.js">
 </h1>
 
 <p align="center">
@@ -75,6 +75,6 @@
 ---
 
 ### 🎵 *Fun Developer Quote*
-> "The best error message is the one that never shows up."
+🚀 1. "First, solve the problem. Then, write the code." – John Johnson 2."A great programmer is someone who looks both ways before crossing a one-way street." – Doug Linder 3."Software developers like to solve problems. If there are no problems available, they will create their own." – Dave Thomas 4."The best error message is the one that never shows up." – Thomas Fuchs 5."Programming is like writing a book… except if you miss a single comma on page 126, the whole thing makes no sense." – Unknown 6."A good programmer is someone who always looks both ways before crossing a one-way street." – Alan J. Perlis
 
 ---
