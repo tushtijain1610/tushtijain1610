@@ -9,12 +9,15 @@
 
 ---
 
-## 🌟 *About Me*
-- 💻 *Role:* Aspiring Web Developer
-- 📌 *Bio:* Passionate about crafting user-friendly web applications and continuously learning new technologies.
-- 📚 *Currently Learning:* Java and Web Development frameworks
-- 🚀 *Efficient In:* Python, HTML, CSS
-- 🌱 *Interests:* Exploring new programming languages and enhancing problem-solving skills.
+ 🌟 *About Me*
+ 💻 Role: Aspiring Web Developer
+ 📌 Bio: I am skilled at setting clear objectives and following a well-organized path to achieve them.
+ 📚 Currently Learning: React.js & Java
+ 🚀 Efficient In: Python & Java
+ 🌱 Interests: Exploring new programming languages and enhancing problem-solving skills.
+ ✔ Python, Java, HTML, CSS, JavaScript
+ ✔ GitHub, SQL, React, Numpy, Pandas, Matplotlib
+ ✔ VS Code, Spring Boot 
 
 ---
 
@@ -67,8 +70,8 @@
   <a href="https://github.com/tushtijain1610">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:jaintushti586@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/tushti-jain-864564277/">
+    <img src="https://img.shields.io/badge/linkedln-100000?style=for-the-badge&logo=linkedln&logoColor=white">
   </a>
 </p>
 
