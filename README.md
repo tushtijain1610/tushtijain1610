@@ -9,7 +9,7 @@
 
 ---
 
- 🌟 *About Me*
+## 🌟 *About Me*
  
  -💻 Role: Aspiring Web Developer
  
