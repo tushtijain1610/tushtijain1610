@@ -10,6 +10,7 @@
 ---
 
  🌟 *About Me*
+ 
  -💻 Role: Aspiring Web Developer
  -📌 Bio: I am skilled at setting clear objectives and following a well-organized path to achieve them.
  -📚 Currently Learning: React.js & Java
