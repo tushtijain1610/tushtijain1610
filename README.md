@@ -10,14 +10,14 @@
 ---
 
  🌟 *About Me*
- 💻 Role: Aspiring Web Developer
- 📌 Bio: I am skilled at setting clear objectives and following a well-organized path to achieve them.
- 📚 Currently Learning: React.js & Java
- 🚀 Efficient In: Python & Java
- 🌱 Interests: Exploring new programming languages and enhancing problem-solving skills.
- ✔ Python, Java, HTML, CSS, JavaScript
- ✔ GitHub, SQL, React, Numpy, Pandas, Matplotlib
- ✔ VS Code, Spring Boot 
+ -💻 Role: Aspiring Web Developer
+ -📌 Bio: I am skilled at setting clear objectives and following a well-organized path to achieve them.
+ -📚 Currently Learning: React.js & Java
+ -🚀 Efficient In: Python & Java
+ -🌱 Interests: Exploring new programming languages and enhancing problem-solving skills.
+ -✔ Python, Java, HTML, CSS, JavaScript
+ -✔ GitHub, SQL, React, Numpy, Pandas, Matplotlib
+ -✔ VS Code, Spring Boot 
 
 ---
 
